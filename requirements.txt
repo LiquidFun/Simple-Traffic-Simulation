@@ -1,0 +1,5 @@
+numpy
+pandas
+bezier==0.10.0
+arcade==2.1.7
+pillow
